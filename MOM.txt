@@ -12,3 +12,17 @@ Meeting Discussion -
 1. Understanding the Project, its requiremnets and working.
 2. Resources provided with the team for all the requirements.
 3. Tasks assigned to each and work started on the same.
+
+
+Meeting - 2
+02/06/2021 - Wednesday - 5:00 PM
+
+Members Present -
+1. Karan Bengani
+2. Shikhar Agrawal
+3. Kritika Malhotra
+4. Nikhil Taparia
+
+Meeting Discussion - 
+1. Discussed the Progress and requirements.
+2. Tasks given to each member for practice of the topic.
