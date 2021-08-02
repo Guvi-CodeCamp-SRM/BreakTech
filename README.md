@@ -13,7 +13,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 <table>
   <tr>
     <td align="center">
-      <i class="fa fa-github"> <a href="https://github.com/shikharagrawal2002"></a></i>
+      <a href="https://github.com/shikharagrawal2002"><i class="fa fa-github"></i></a>
               <img src="https://imgur.com/xlUR625.jpg" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
               <br/>   
