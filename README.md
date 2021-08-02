@@ -11,7 +11,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 
 <table>
   <tr>
-    <td align="center">
+    <td>
             <a href="https://github.com/shikharagrawal2002">
               <img src="https://imgur.com/xlUR625.jpg" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
@@ -20,7 +20,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
           </td>
     <td></td>
     
-    <td align="center">
+    <td>
             <a href="">
               <img src="" width="100px" alt=""/><br />
               <sub><b>Kritika Malhotra</b></sub>
@@ -28,9 +28,9 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
             <a >
                 💻
             </a>
-          </td>
+    </td>
     <td></td>
-    <td align="center">
+    <td>
             <a href=''>
               <img src="" width="100px" alt=""/><br />
               <sub><b>Nikhil Taparia</b></sub>
@@ -38,7 +38,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
             <a >
                 📖
             </a>
-          </td>
+     </td>
   </tr>
 </table>
   
