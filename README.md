@@ -9,13 +9,14 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 
 ## OUR TECH WIZZES
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <table>
   <tr>
     <td align="center">
-            <a href="https://github.com/shikharagrawal2002">
+      <i class="fa fa-github"> <a href="https://github.com/shikharagrawal2002"></a></i>
               <img src="https://imgur.com/xlUR625.jpg" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
-            </a><br/>   
+              <br/>   
                 💻🏸🏓<br>
       <i>Let's go invent tommorow instead of <br>worrying about what happened yesterday.</i>
           </td>
