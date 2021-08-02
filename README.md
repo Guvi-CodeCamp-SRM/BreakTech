@@ -16,7 +16,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
               <img src="https://imgur.com/xlUR625.jpg" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
             </a><br/>   
-                💻🏸🏓
+                💻🏸🏓<br>
       <i>Let's go invent tommorow instead of <br>worrying about what happened yesterday.</i>
           </td>
     <td align="center">
