@@ -13,7 +13,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
   <tr>
     <td align="center">
             <a href="https://github.com/shikharagrawal2002">
-              <img src="https://imgur.com/a/cbbqDmS" width="100px" alt=""/><br />
+              <img src="https://imgur.com/xlUR625" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
             </a><br/>   
                 💻🏸🏓
