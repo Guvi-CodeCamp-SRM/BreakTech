@@ -17,7 +17,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
               <sub><b>Shikhar Agrawal</b></sub>
             </a><br/>   
                 💻🏸🏓
-      <i>Let's go invent tommorow instead of worrying about what happened yesterday.</i>
+      <i>Let's go invent tommorow instead of <br>worrying about what happened yesterday.</i>
           </td>
     <td align="center">
             <a href="">
