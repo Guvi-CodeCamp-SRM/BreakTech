@@ -13,7 +13,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
   <tr>
     <td align="center">
             <a href="https://github.com/shikharagrawal2002">
-              <blockquote class="imgur-embed-pub" lang="en" data-id="xlUR625" data-context="false" ><a href="//imgur.com/xlUR625"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+              <img src="https://imgur.com/xlUR625.jpg" width="100px" alt=""/><br />
               <sub><b>Shikhar Agrawal</b></sub>
             </a><br/>   
                 💻🏸🏓
