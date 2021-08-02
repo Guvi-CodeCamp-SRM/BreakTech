@@ -18,8 +18,6 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
             </a><br/>   
                 💻🏸🏓
           </td>
-    <td></td>
-    
     <td>
             <a href="">
               <img src="" width="100px" alt=""/><br />
@@ -29,7 +27,6 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
                 💻
             </a>
     </td>
-    <td></td>
     <td>
             <a href=''>
               <img src="" width="100px" alt=""/><br />
