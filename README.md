@@ -9,7 +9,12 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 
 ## OUR TECH WIZZES
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 <table>
   <tr>
     <td align="center">
