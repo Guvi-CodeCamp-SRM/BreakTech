@@ -10,7 +10,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 ## OUR TECH WIZZES
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://imgur.com/xlUR625.jpg" height="150"><br>
         SHIKHAR AGRAWAL<br>
         💻🏓🏸<br>
@@ -20,7 +20,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <a href="https://github.com/shikharagrawal2002"><img src="https://image.pngaaa.com/822/1100822-middle.png" height="25"></a><br>
       <i>“Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs</i>
     </td>
-    <td>
+    <td align="center">
       <img src="" height="100"><br>
       KRITIKA MALHOTRA<br>
       🤍🥺💃<br>
@@ -30,7 +30,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <a href="https://github.com/kritical1326"><img src="https://image.pngaaa.com/822/1100822-middle.png" height="25"></a><br>
       <i>“An extroverted, nerdy bibliophile with the memory of a goldfish.”</i>
     </td>
-    <td>
+    <td align="center"> 
       <img src="" height="100"><br>
       NIKHIL TAPARIA<br>
      🤟🥳😘<br>
