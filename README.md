@@ -28,9 +28,9 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 <table>
   <tr>
     <td>
-      <img src="https://imgur.com/xlUR625.jpg" height="100">
+      <img src="https://imgur.com/xlUR625.jpg" height="150">
         💻🏓🏸
-      <a href="https://twitter.com/Shikhar31562863"><img src="http://i.imgur.com/tXSoThF.png" height="50"></a>
+      <a href="https://twitter.com/Shikhar31562863"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2014%2F08%2F10%2Fmagazine%2Fwho-made-that-twitter-bird.html&psig=AOvVaw27ekn7rVLRJR3lyTwbF0oe&ust=1628261976200000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC_vdeSmvICFQAAAAAdAAAAABAD" height="25"></a>
     </td>
     <td>
       <img src="https://imgur.com/xlUR625.jpg" height="100">
