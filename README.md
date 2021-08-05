@@ -52,7 +52,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       NIKHIL TAPARIA<br>
      🤟🥳😘<br>
       <a href="https://twitter.com/NIKHILJITAPARIA"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
-      <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://i.pinimg.com/564x/63/a2/31/63a231592efca78f2bcbc02267eb37be.jpg" height="25"></a>
+      <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://www.pinclipart.com/picdir/middle/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png" height="25"></a>
       <a href="https://www.instagram.com/unique_niki/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
       <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
       <a href="https://github.com/taparia11/"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" height="25"></a><br>
