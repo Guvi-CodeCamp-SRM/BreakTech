@@ -39,35 +39,6 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-## Add social media links to your GitHub README
-Want to add some flare to your README? How about getting mad followers on Twitter?
-
-Easy: Fork this repo and it with your own social media URLs. You can then copy / paste the social media icons into any of your project's README and you're done!
-
-### What's included
-
-You have access to icons with padding, and icons without padding.
-
-#### Icons with padding
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-#### Without padding—great to use in a sentence [![alt text][1.2]][1]
-
-[![alt text][1.2]][1]
-[![alt text][2.2]][2]
-[![alt text][3.2]][3]
-[![alt text][4.2]][4]
-[![alt text][5.2]][5]
-[![alt text][6.2]][6]
-
 <!--
 <table>
   <tr>
