@@ -31,9 +31,9 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <img src="https://imgur.com/xlUR625.jpg" height="150"><br>
         SHIKHAR AGRAWAL<br>
         💻🏓🏸<br>
-      <a href="https://twitter.com/Shikhar31562863"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a><br>
-      <a href="https://www.instagram.com/showrockerman19/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a<br>
-      <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a<br>
+      <a href="https://twitter.com/Shikhar31562863"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a>
+      <a href="https://www.instagram.com/showrockerman19/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a>
       <a href="https://github.com/shikharagrawal2002"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="25"></a><br>
       “Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs
     </td>
@@ -41,9 +41,9 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <img src="" height="100"><br>
       KRITIKA MALHOTRA<br>
       🤍🥺💃<br>
-      <a href="https://twitter.com/kritical1326"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a><br>
-      <a href="https://www.instagram.com/kritical1326/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a<br>
-      <a href="https://www.linkedin.com/in/kritika-m-1a80721b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a<br>
+      <a href="https://twitter.com/kritical1326"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a>
+      <a href="https://www.instagram.com/kritical1326/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/kritika-m-1a80721b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a>
       <a href="https://github.com/kritical1326"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="25"></a><br>
         “An extroverted, nerdy bibliophile with the memory of a goldfish.”
     </td>
@@ -51,10 +51,10 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <img src="" height="100"><br>
       NIKHIL TAPARIA<br>
      🤟🥳😘<br>
-      <a href="https://twitter.com/NIKHILJITAPARIA"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a><br>
-      <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" height="25"></a><br>
-      <a href="https://www.instagram.com/unique_niki/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a<br>
-      <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a<br>
+      <a href="https://twitter.com/NIKHILJITAPARIA"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" height="25"></a>
+      <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" height="25"></a>
+      <a href="https://www.instagram.com/unique_niki/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25"></a>
       <a href="https://github.com/taparia11/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="25"></a><br>
         “Success is not a destiny its a journey it have only comma not full stop.😎”
     </td>
