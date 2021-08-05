@@ -34,7 +34,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <a href="https://twitter.com/Shikhar31562863"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
       <a href="https://www.instagram.com/showrockerman19/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
       <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
-      <a href="https://github.com/shikharagrawal2002"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" height="25"></a><br>
+      <a href="https://github.com/shikharagrawal2002"><img src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" height="25"></a><br>
       “Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs
     </td>
     <td>
@@ -44,7 +44,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <a href="https://twitter.com/kritical1326"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
       <a href="https://www.instagram.com/kritical1326/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
       <a href="https://www.linkedin.com/in/kritika-m-1a80721b9/"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
-      <a href="https://github.com/kritical1326"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" height="25"></a><br>
+      <a href="https://github.com/kritical1326"><img src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" height="25"></a><br>
         “An extroverted, nerdy bibliophile with the memory of a goldfish.”
     </td>
     <td>
@@ -55,7 +55,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://www.pinclipart.com/picdir/middle/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png" height="25"></a>
       <a href="https://www.instagram.com/unique_niki/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
       <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
-      <a href="https://github.com/taparia11/"><img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" height="25"></a><br>
+      <a href="https://github.com/taparia11/"><img src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" height="25"></a><br>
         “Success is not a destiny its a journey it have only comma not full stop.😎”
     </td>
   </tr>
