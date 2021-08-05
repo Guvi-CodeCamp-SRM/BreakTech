@@ -30,7 +30,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
     <td>
       <img src="https://imgur.com/xlUR625.jpg" height="100">
         💻🏓🏸
-        ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+      <a href="https://twitter.com/Shikhar31562863"><img src="http://i.imgur.com/tXSoThF.png" height="50"></a>
     </td>
     <td>
       <img src="https://imgur.com/xlUR625.jpg" height="100">
@@ -38,8 +38,8 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
     <td>
       <img src="https://imgur.com/xlUR625.jpg" height="100">
     </td>
-💻🏸🏓
-
+  </tr>
+</table>
 
 ## COMING NEXT....
 
