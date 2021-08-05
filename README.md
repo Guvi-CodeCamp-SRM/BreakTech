@@ -25,7 +25,19 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 [2]: http://www.facebook.com/sednaoui
 [6]: http://www.github.com/carlsednaoui
 
-<img src="https://imgur.com/xlUR625.jpg" height="100"><img src="https://imgur.com/xlUR625.jpg" height="100"><img src="https://imgur.com/xlUR625.jpg" height="100">
+<table>
+  <tr>
+    <td>
+      <img src="https://imgur.com/xlUR625.jpg" height="100">
+        💻🏓🏸
+        ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+    </td>
+    <td>
+      <img src="https://imgur.com/xlUR625.jpg" height="100">
+    </td>
+    <td>
+      <img src="https://imgur.com/xlUR625.jpg" height="100">
+    </td>
 💻🏸🏓
 
 
