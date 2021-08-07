@@ -1,4 +1,5 @@
-# BreakTech
+# BreakTech <img width="200" height="200" title="BreakTech" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
+
 
 A Daily News Discord Bot which provides the user with timely technical news on a daily basis along with some addon features.
 
@@ -18,15 +19,13 @@ At Present this is the v1.0 of the bot which provides the user with 24hr/per hr 
 
 ## IMPORT
 
-```https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&scope=bot```
+https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&scope=bot
 
 # LANGUAGES
 
 * PYTHON - <img src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all" width="25" height="25">
 * Python Modules
 * Discord.py
-
-<img align="center" width="200" height="200" title="BreakTech" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
 
 ## OUR TECH WIZZES
 <table>
