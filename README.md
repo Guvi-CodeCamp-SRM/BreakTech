@@ -25,7 +25,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
 
 # LANGUAGES
 
-* Python - <img src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all" width="50" height="25">
+* Python
 * Python Modules
 * Discord.py
 
