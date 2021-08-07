@@ -39,7 +39,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
       <a href="https://twitter.com/Shikhar31562863"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="20"></a>
       <a href="https://www.instagram.com/showrockerman19/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="20"></a>
       <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="20"></a>
-      <a href="https://github.com/shikharagrawal2002"><img src="http://i.imgur.com/9I6NRUm.png" height="20"></a><br>
+      <a href="https://github.com/shikharagrawal2002"><img src="https://stickpng.com/img/icons-logos-emojis/tech-companies/github-logo" height="20"></a><br>
       <i>“Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs</i>
     </td>
     <td align="center">
