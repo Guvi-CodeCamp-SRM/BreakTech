@@ -36,7 +36,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
       <img src="https://imgur.com/xlUR625.jpg" height="100"><br>
         SHIKHAR AGRAWAL<br>
         💻🏓🏸<br>
-      <a href="https://twitter.com/Shikhar31562863"><img src="https://www.citypng.com/public/uploads/small/51614117307ry3awuuttuwixoqz5lcry5is5fw8ev8aypuoykpo4gsipkq42a0gs5l3bylyqxrmj3kb4kbjc91hxhecwll3fikvkmqou3ya4cbh.png" height="20"></a>
+      <a href="https://twitter.com/Shikhar31562863"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="20"></a>
       <a href="https://www.instagram.com/showrockerman19/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="20"></a>
       <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="20"></a>
       <a href="https://github.com/shikharagrawal2002"><img src="http://i.imgur.com/9I6NRUm.png" height="20"></a><br>
