@@ -26,7 +26,7 @@ At Present this is the v1.0 of the bot which provides the user with 24hr/per hr 
 * Python Modules
 * Discord.py
 
-<img align="right" width="500" height="500" title="GuviBot" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
+<img align="center" width="200" height="200" title="BreakTech" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
 
 ## OUR TECH WIZZES
 <table>
