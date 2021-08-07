@@ -1,4 +1,6 @@
-# BreakTech <img width="200" height="200" title="BreakTech" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
+<img width="200" height="200" title="BreakTech" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
+
+# BreakTech 
 
 
 A Daily News Discord Bot which provides the user with timely technical news on a daily basis along with some addon features.
