@@ -25,7 +25,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
 
 # LANGUAGES
 
-* PYTHON - <img src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all" width="25" height="25">
+* Python - <img src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all" width="50" height="25">
 * Python Modules
 * Discord.py
 
@@ -38,7 +38,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
         💻🏓🏸<br>
       <a href="https://twitter.com/Shikhar31562863"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
       <a href="https://www.instagram.com/showrockerman19/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
-      <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="25"></a>
       <a href="https://github.com/shikharagrawal2002"><img src="http://i.imgur.com/9I6NRUm.png" height="25"></a><br>
       <i>“Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs</i>
     </td>
@@ -48,7 +48,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
       🤍🥺💃<br>
       <a href="https://twitter.com/kritical1326"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
       <a href="https://www.instagram.com/kritical1326/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
-      <a href="https://www.linkedin.com/in/kritika-m-1a80721b9/"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/kritika-m-1a80721b9/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="25"></a>
       <a href="https://github.com/kritical1326"><img src="http://i.imgur.com/9I6NRUm.png" height="25"></a><br>
       <i>“An extroverted, nerdy bibliophile with the memory of a goldfish.”</i>
     </td>
@@ -59,7 +59,7 @@ https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&
       <a href="https://twitter.com/NIKHILJITAPARIA"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
       <a href="https://www.facebook.com/nikhil.taparia.51"><img src="https://www.pinclipart.com/picdir/middle/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png" height="25"></a>
       <a href="https://www.instagram.com/unique_niki/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
-      <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
+      <a href="https://www.linkedin.com/in/nikhil-taparia-192691208"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height="25"></a>
       <a href="https://github.com/taparia11/"><img src="http://i.imgur.com/9I6NRUm.png" height="25"></a><br>
       <i>“Success is not a destiny its a journey it have only comma not full stop.😎”</i>
     </td>
