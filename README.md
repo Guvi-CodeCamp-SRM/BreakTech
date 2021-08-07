@@ -1,11 +1,24 @@
 # BreakTech
 
-A Daily News Discord Bot which provides the user with timely technical news on a daily basis along with som addon features.
+A Daily News Discord Bot which provides the user with timely technical news on a daily basis along with some addon features.
 
 ## DOCUMENTATION
 
-This is the v1.0 of the Bot which provides the following funtionalities:- 
-24hr per hr Technical News
+At Present this is the v1.0 of the bot which provides the user with 24hr/per hr technical news be it of any category.
+
+1. When the bot is invited it creates 2 channels one user specific(breaktech) and one bot specific(24hour).
+2.In the 24hour channel the bot provides techincal news and happenings 24 hours with new news every hour.
+3. In the breaktech channel the user can ask the bot for a single news anytime of the day.
+
+
+## SYNTAX
+
+# `!hi` - ``Greetings from the Bot``
+# `!headline` - ``Provides the user with a Single Tehcnical News and the soruce so that the user cna fgather more information.``
+
+## IMPORT
+
+```https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&scope=bot```
 
 ## OUR TECH WIZZES
 <table>
@@ -21,7 +34,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <i>“Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs</i>
     </td>
     <td align="center">
-      <img src="" height="100"><br>
+      <img src="https://media-exp1.licdn.com/dms/image/C5603AQG91fOuVQ-82w/profile-displayphoto-shrink_200_200/0/1601796974427?e=1633564800&v=beta&t=m0t5U4P3rBVWP4RSdRc_nLmiTSrAmRJxsdRlIwvCkU8" height="100"><br>
       KRITIKA MALHOTRA<br>
       🤍🥺💃<br>
       <a href="https://twitter.com/kritical1326"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
@@ -31,7 +44,7 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
       <i>“An extroverted, nerdy bibliophile with the memory of a goldfish.”</i>
     </td>
     <td align="center"> 
-      <img src="" height="100"><br>
+      <img src="https://media-exp1.licdn.com/dms/image/C5603AQFjpMfsw8sZ2Q/profile-displayphoto-shrink_800_800/0/1628217679752?e=1633564800&v=beta&t=jU0aqbZSQWTUqCpYkBh_4WybNVcgwgQtgKLgFJc2dDc" height="100"><br>
       NIKHIL TAPARIA<br>
      🤟🥳😘<br>
       <a href="https://twitter.com/NIKHILJITAPARIA"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
@@ -50,4 +63,5 @@ Upcoming modifications in our bot with further features such as -
 
 1. User Defined Functions
 2. Bot Status
-3. and many more....stay tuned!!
+3. Technical Information brought from various sites
+4. and many more....stay tuned!!
