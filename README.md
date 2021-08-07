@@ -13,7 +13,7 @@ At Present this is the v1.0 of the bot which provides the user with 24hr/per hr 
 
 ## SYNTAX
 
- `!hi` - ``Greetings from the Bot``
+ `!hi` - ``Greetings from the Bot``<br>
  `!headline` - ``Provides the user with a Single Tehcnical News and the soruce so that the user cna fgather more information.``
 
 ## IMPORT
