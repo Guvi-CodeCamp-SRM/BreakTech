@@ -11,13 +11,13 @@ This is the v1.0 of the Bot which provides the following funtionalities:-
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/xlUR625.jpg" height="150"><br>
+      <img src="https://imgur.com/xlUR625.jpg" height="100"><br>
         SHIKHAR AGRAWAL<br>
         💻🏓🏸<br>
-      <a href="https://twitter.com/Shikhar31562863"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"></a>
+      <a href="https://twitter.com/Shikhar31562863"><img src="http://i.imgur.com/wWzX9uB.png" height="25"></a>
       <a href="https://www.instagram.com/showrockerman19/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25"></a>
       <a href="https://www.linkedin.com/in/shikhar-agrawal-5b42b0198/"><img src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg" height="25"></a>
-      <a href="https://github.com/shikharagrawal2002"><img src="https://image.pngaaa.com/822/1100822-middle.png" height="25"></a><br>
+      <a href="https://github.com/shikharagrawal2002"><img src="http://i.imgur.com/9I6NRUm.png" height="25"></a><br>
       <i>“Let’s go invent tomorrow instead of worrying about what happened yesterday.” – Steve Jobs</i>
     </td>
     <td align="center">
