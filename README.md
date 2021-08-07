@@ -13,12 +13,20 @@ At Present this is the v1.0 of the bot which provides the user with 24hr/per hr 
 
 ## SYNTAX
 
- `!hi` - ``Greetings from the Bot``<br>
- `!headline` - ``Provides the user with a Single Tehcnical News and the soruce so that the user cna fgather more information.``
+* `!hi` - ``Greetings from the Bot``
+* `!headline` - ``Provides the user with a Single Tehcnical News and the soruce so that the user cna fgather more information.``
 
 ## IMPORT
 
 ```https://discord.com/oauth2/authorize?client_id=869191119316058132&permissions=8&scope=bot```
+
+# LANGUAGES
+
+* PYTHON - <img src="https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all" width="25" height="25">
+* Python Modules
+* Discord.py
+
+<img align="right" width="500" height="500" title="GuviBot" src="https://github.com/Guvi-CodeCamp-SRM/BreakTech/blob/main/break%20tech%202.png?raw=true"/>
 
 ## OUR TECH WIZZES
 <table>
